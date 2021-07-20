@@ -1,7 +1,6 @@
-class Simple{  
-    public static void main(String args[]){  
+public class Simple{  
+    public static void main(String[] args){  
      System.out.println("Hello Java");  
-     System.out.println("Welcome to SCA Clould School"); 
-     System.out.println("Welcome to SCA Clould School"); 
+     System.out.println("Welcome to SCA Clould SChool ");   
     }  
 }  
