@@ -1,3 +1,7 @@
-# This program prints welcome to  SCA CLOULD SCHOOL!
-
-print('welcome to  SCA CLOULD SCHOOL!')
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+     System.out.println("Welcome to SCA Clould School"); 
+     System.out.println("Welcome to SCA Clould School"); 
+    }  
+}  
